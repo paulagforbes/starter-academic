@@ -1,0 +1,10 @@
+@article{joseph2014becoming,
+  title={Becoming a written word: Eye movements reveal order of acquisition effects following incidental exposure to new words during silent reading},
+  author={Joseph, Holly SSL and Wonnacott, Elizabeth and Forbes, Paul and Nation, Kate},
+  journal={Cognition},
+  volume={133},
+  number={1},
+  pages={238--248},
+  year={2014},
+  publisher={Elsevier}
+}
