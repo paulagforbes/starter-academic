@@ -14,11 +14,12 @@ affiliation:
   url: https://www.univie.ac.at/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in cognitive and neural mechanisms of human social interaction and how these mechanisms are modulated in different contexts, such as under stress or in psychiatric conditions. 
+bio: I am interested in cognitive and neural mechanisms underlying human social interactions and how these can change in different contexts, such as when we experience stress or psychiatric conditions.
 
 # Interests to show in About widget
 interests:
 - social cognition 
+- reward processing
 - stress
 - autism
 

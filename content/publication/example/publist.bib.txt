@@ -1,0 +1,136 @@
+@article{joseph2014becoming,
+  title={Becoming a written word: Eye movements reveal order of acquisition effects following incidental exposure to new words during silent reading},
+  author={Joseph, Holly SSL and Wonnacott, Elizabeth and Forbes, Paul and Nation, Kate},
+  journal={Cognition},
+  volume={133},
+  number={1},
+  pages={238--248},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{forbes2016stormy,
+  title={STORMy Interactions: Gaze and the Modulation of Mimicry in Adults on the Autism Spectrum},
+  author={Forbes, Paul A. G. and Wang, Yin and Hamilton, Antonia F. de C.},
+  journal={Psychonomic Bulletin \& Review},
+  year={2016}
+}
+
+@article{pan2016responses,
+  title={The Responses of Medical General Practitioners to Unreasonable Patient Demand for Antibiotics - A Study of Medical Ethics Using Immersive Virtual Reality},
+  author={Pan, Xueni and Slater, Mel and Beacco, Alejandro and Navarro, Xavi and Bellido Rivas, Anna I. and Swapp, David and Hale, Joanna and Forbes, Paul A. G. and Denvir, Catrina and Hamilton, Antonia F. de C. and others},
+  journal={PloS one},
+  year={2016}
+}
+
+@article{forbes2016reduced,
+  title={Reduced Mimicry to Virtual Reality Avatars in Autism Spectrum Disorder},
+  author={Forbes, Paul A. G. and Pan, {\textperiodcentered} Xueni and Hamilton, Antonia F. de C},
+  journal={Journal of Autism and Developmental Disorders},
+  year={2016}
+}
+
+@inproceedings{hamilton2016using,
+  title={Using Virtual Characters to Study Human Social Cognition},
+  author={Hamilton, Antonia and Pan, Xueni Sylvia and Forbes, Paul and Hale, Jo},
+  booktitle={International Conference on Intelligent Virtual Agents},
+  pages={494--499},
+  year={2016},
+  organization={Springer International Publishing}
+}
+
+@article{krishnan2017can,
+  title={How can the study of action kinematics inform our understanding of human social interaction?},
+  author={Krishnan-Barman, Sujatha and Forbes, Paul AG and Hamilton, Antonia F de C},
+  journal={Neuropsychologia},
+  volume={105},
+  pages={101--110},
+  year={2017},
+  publisher={Pergamon}
+}
+
+@article{forbes2017moving,
+  title={Moving higher and higher: imitators’ movements are sensitive to observed trajectories regardless of action rationality},
+  author={Forbes, Paul AG and Hamilton, Antonia F de C},
+  journal={Experimental Brain Research},
+  volume={235},
+  number={9},
+  pages={2741--2753},
+  year={2017},
+  publisher={Springer Science and Media}
+}
+
+@article{forbes2017model,
+  title={A model to investigate intention understanding in autism? Comment on ”Seeing mental states: An experimental strategy for measuring the observability of other minds” by Cristina Becchio et al.},
+  author={Forbes, Paul A.G. and Hamilton, Antonia F. de C.},
+  journal={Physics of Life Reviews},
+  year={2017}
+}
+
+@article{takamuku2018typical,
+  title={Typical use of inverse dynamics in perceiving motion in autistic adults: Exploring computational principles of perception and action},
+  author={Takamuku, Shinya and Forbes, Paul AG and Hamilton, Antonia F de C and Gomi, Hiroaki},
+  journal={Autism Research},
+  volume={11},
+  number={7},
+  pages={1062--1075},
+  year={2018}
+}
+
+@article{forbes2018way,
+  title={The way others move can influence what we choose},
+  author={Forbes, Paul AG and Suddell, Steph F and Farmer, Harry and Logeswaran, Yanakan and Hamilton, Antonia},
+  journal={Quarterly Journal of Experimental Psychology},
+  pages={1747021818808461},
+  year={2018},
+  publisher={SAGE Publications}
+}
+
+@phdthesis{forbes2018measuring,
+  title={Measuring and Modulating Mimicry: Insights from Virtual Reality and Autism},
+  author={Forbes, Paul},
+  year={2018},
+  school={UCL (University College London)}
+}
+
+@article{forbes2020brief,
+  title={Brief Report: Autistic Adults Assign Less Weight to Affective Cues When Judging Others’ Ambiguous Emotional States},
+  author={Forbes, Paul A. G. and Hamilton, Antonia F. de C},
+  journal={Journal of Autism and Developmental Disorders},
+  year={2020}
+}
+
+@article{nitschke2020resilience,
+  title={Resilience During Uncertainty. Greater Social Connectedness During COVID-19 Lockdown is Associated with Reduced Distress and Fatigue},
+  author={Nitschke, Jonas P and Forbes, Paul A.G. and Ali, Nida and Cutler, Jo and Apps, Matthew A.J and Lockwood, Patricia L. and Lamm, Claus},
+  journal={PsyArXiv},
+  year={2020}
+}
+
+@article{forbes2020covid,
+  title={The COVID-19 crisis, stress, mood, and behaviour: an ecological momentary assessment study},
+  author={Forbes, Paul and Feneberg, Anja C and Lamm, Claus and Nater, Urs and Pronizius, Ekaterina and Silani, Giorgia and Stijovic, Ana},
+  year={2020},
+  publisher={OSF}
+}
+
+@article{lahnakoski2020unobtrusive,
+  title={Unobtrusive tracking of interpersonal orienting and distance predicts the subjective quality of social interactions},
+  author={Lahnakoski, Juha M and Forbes, Paul AG and McCall, Cade and Schilbach, Leonhard},
+  journal={Royal Society Open Science},
+  volume={7},
+  number={8},
+  pages={191815},
+  year={2020},
+  publisher={The Royal Society}
+}
+
+@article{forbes2020effects,
+  title={The effects of self-relevance vs. reward value on facial mimicry},
+  author={Forbes, Paul AG and Korb, Sebastian and Radloff, Alexandra and Lamm, Claus},
+  journal={Acta Psychologica},
+  volume={212},
+  pages={103193},
+  year={2020},
+  publisher={North-Holland}
+}
